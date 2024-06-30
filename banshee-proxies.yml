@@ -1,0 +1,8 @@
+esp32_ble_tracker:
+  scan_parameters:
+    interval: 1000ms # default 320ms. Time spent per adv channel
+    window: 900ms # default 30ms. Time spent listening during interval.
+    improv_serial: !remove
+
+logger:
+  baud_rate: 0 # disable serial uart logging
