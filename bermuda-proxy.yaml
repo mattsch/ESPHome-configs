@@ -7,3 +7,7 @@ improv_serial: !remove
 
 logger:
   baud_rate: 0 # disable serial uart logging
+
+button:
+  - platform: restart
+    name: "Restart"
