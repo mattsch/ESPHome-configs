@@ -13,3 +13,7 @@ logger:
 button:
   - platform: restart
     name: "Restart"
+
+binary_sensor:
+  - platform: status
+    name: "${friendly_name} Status"
