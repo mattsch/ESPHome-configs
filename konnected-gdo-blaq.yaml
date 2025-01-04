@@ -1,0 +1,6 @@
+substitutions:
+  warning_tone_rtttl: ${mario}
+
+binary_sensor:
+  - platform: status
+    name: Status
