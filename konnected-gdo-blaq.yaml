@@ -1,4 +1,5 @@
 substitutions:
+  garage_door_close_warning_duration: "2s"
   warning_tone_rtttl: ${mario}
 
 binary_sensor:
