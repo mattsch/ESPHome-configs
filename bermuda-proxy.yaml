@@ -17,6 +17,3 @@ button:
 binary_sensor:
   - platform: status
     name: "${friendly_name} Status"
-
-wifi:
-  power_save_mode: none
