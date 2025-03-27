@@ -17,3 +17,8 @@ button:
 binary_sensor:
   - platform: status
     name: "${friendly_name} Status"
+
+wifi:
+  fast_connect: true
+  enable_btm: true
+  enable_rrm: true
