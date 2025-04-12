@@ -5,3 +5,5 @@ substitutions:
 binary_sensor:
   - platform: status
     name: Status
+
+web_server: !remove
