@@ -7,6 +7,3 @@ binary_sensor:
     name: Status
 
 web_server: !remove
-
-wifi:
-  enable_btm: true
