@@ -7,3 +7,8 @@ binary_sensor:
     name: Status
 
 web_server: !remove
+
+wifi:
+  enable_btm: true
+  fast_connect: true
+  enable_rrm: true
