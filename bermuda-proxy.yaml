@@ -1,5 +1,5 @@
 packages:
-  esphome.bluetooth-proxy: github://esphome/firmware/bluetooth-proxy/esp32-generic.yaml@main
+  esphome.bluetooth-proxy: github://esphome/bluetooth-proxies/esp32-generic/esp32-generic.yaml@main
 
 esp32_ble_tracker:
   scan_parameters:
