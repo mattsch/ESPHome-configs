@@ -9,6 +9,6 @@ binary_sensor:
 web_server: !remove
 
 wifi:
-  enable_btm: true
+  enable_btm: false
   fast_connect: true
-  enable_rrm: true
+  enable_rrm: false
